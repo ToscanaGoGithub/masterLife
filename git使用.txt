@@ -1,0 +1,5 @@
+1、下载git
+2、github上创建一个库
+3、关联本地git库和github库
+4、将本地文件使用git上传到github上
+5、将github上面文件更新到本地git上
