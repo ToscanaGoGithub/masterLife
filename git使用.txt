@@ -1,5 +1,8 @@
 1、下载git
 2、github上创建一个库
-3、关联本地git库和github库
-4、将本地文件使用git上传到github上
-5、将github上面文件更新到本地git上
+3、关联本地git库和github库，在建完仓库后会有提示
+4、进行配置账号名称和邮箱
+5、将本地文件使用git上传到github上，git add commit push
+6、将github上面文件更新到本地git上 git pull 应该就可以
+7、建立ignore文件，忽略一些没必要的文件 touch vim 
+8、如何进行编辑文件进行上传，选择怎样的编辑器，vim是否能够进行插入图片。
