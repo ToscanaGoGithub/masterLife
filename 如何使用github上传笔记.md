@@ -12,3 +12,4 @@ vscode配置git，进行授权
 明白如何进行插入图片 ! \[ xxx](./xxxx/sigmoid.png)
 同时执行多条语句 分号
 修改终端
+如何进行快速粘贴图片：使用paste image
