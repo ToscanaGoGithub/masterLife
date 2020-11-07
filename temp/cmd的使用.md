@@ -1,0 +1,1 @@
+如何删除当前的所有输入 ctrl+backspace
