@@ -1,3 +1,6 @@
+## 关键字：vscode 编辑 文章
+
+
 如何增加超链接：如果是行内形式[]()既可以实现  
 &emsp;如何快速插入图片
 
@@ -31,3 +34,18 @@
 Markdown文件插入数学公式 https://www.jianshu.com/p/70917dab822b
 Markdown的最常用标记符号有哪些？ https://www.cnblogs.com/mmit/p/11269037.html
 markdown中如何设置字体为红色? 　　<font color='red'> text </font>
+
+
+### 插入代码
+
+\```  
+ function a=x
+
+\```
+
+### 如何使用快捷方式
+- 可以使用插件Markdown Shortcuts
+
+### 如何插入表格
+- 可以直接使用快捷键，很是方便
+- 如何在中间插入回车？可以使用\<br>进行实现
